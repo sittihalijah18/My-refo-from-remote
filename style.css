@@ -23,9 +23,8 @@ body{
     color: white;
 }
 #profile-image{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 100%;
+    height: auto;
 }
 #profile-name{
     text-align: center;
