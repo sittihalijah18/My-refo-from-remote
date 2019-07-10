@@ -13,9 +13,9 @@ body{
     border-radius: 6px;
 }
 #profile-image{
-    align: center;
-    width: 100%;
-    height: auto; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 #profile-name{
     text-align: center;
